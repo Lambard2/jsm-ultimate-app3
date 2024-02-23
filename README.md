@@ -1,2 +1,2 @@
 # jsm-ultimate-app3
- Third app from the JavaScript Mastery 10 hour tutorial. 
+ Link to the tutorial: https://www.youtube.com/watch?v=F627pKNUCVQ
